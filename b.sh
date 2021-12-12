@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to a 2.1"
+echo "Welcome to b 2.1"
 echo "Press Ctrl+C to exit"
 
 while true
@@ -13,13 +13,13 @@ do
 			i=0
 	fi
 	
-	echo "a" >> a
+	echo "b" >> b
 	
 	git add . > /dev/null
-	git commit -m "a" > /dev/null
+	git commit -m "b" > /dev/null
 	
-	rm a
+	rm b
 	
 	git add . > /dev/null
-	git commit -m "a" > /dev/null
+	git commit -m "b" > /dev/null
 done
