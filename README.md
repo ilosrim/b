@@ -4,6 +4,9 @@
 <p>
   Github lastfull gif by <a href="https://t.me/ilosrim" target="_blank">ilosrim</a>
 </p>
+
+> Doing these steps can be dangerous for your computer!
+
 # b
 
 b
